@@ -1,0 +1,16 @@
+.button {
+	color: #5C3D2E;
+	border-radius:5px ;
+	padding: 10px 20px;
+	background-color: #F7D08A;
+	align-items: center;
+
+ 
+}
+ 
+.a {
+	align-items: center;
+}
+.button-centered {
+	text-align: center;
+}
